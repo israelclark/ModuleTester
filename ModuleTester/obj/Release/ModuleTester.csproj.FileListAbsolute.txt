@@ -1,0 +1,8 @@
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\bin\Release\ModuleTester.dll
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\bin\Release\ModuleTester.pdb
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\obj\Release\Interop.VBIDE.dll
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\obj\Release\ModuleTester.csproj.ResolveComReference.cache
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\obj\Release\ModuleTester.dll
+C:\Documents and Settings\israelc\My Documents\My Dropbox\Programming Projects\ModuleTester\ModuleTester\obj\Release\ModuleTester.pdb

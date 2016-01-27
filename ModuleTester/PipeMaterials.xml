@@ -1,0 +1,828 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Material name="Copper">
+    <Type name="K">
+      <dNominal name="3">
+        <dInner>2.907</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>    
+      <dNominal name="2 1/2">
+        <dInner>2.435</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>  
+      <dNominal name="2">
+        <dInner>1.959</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.481</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.245</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>.995</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.745</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="5/8">
+        <dInner>.652</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.527</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="L">
+      <dNominal name="3">
+        <dInner>2.945</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.465</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>1.985</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.505</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.265</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>1.025</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.785</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="5/8">
+        <dInner>.666</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.545</dInner>
+        <C>140</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+    </Type>
+  </Material>
+  <Material name="HDPE">
+    <Type name="DR11">
+      <dNominal name="18">
+        <dInner>14.532</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="16">
+        <dInner>12.914</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="14">
+        <dInner>11.3</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="12">
+        <dInner>10.292</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>8.678</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>6.963</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>5.349</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>3.632</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>2.836</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="DR13.5">
+      <dNominal name="18">
+        <dInner>15.174</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="16">
+        <dInner>13.488</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="14">
+        <dInner>11.802</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="12">
+        <dInner>10.748</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>9.062</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>7.269</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>5.583</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>3.794</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>2.95</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="DR7">
+      <dNominal name="18">
+        <dInner>12.55</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="16">
+        <dInner>11.156</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="14">
+        <dInner>9.76</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="12">
+        <dInner>8.89</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>7.494</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>6.013</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>4.589</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>3.136</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>2.44</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="DR9">
+      <dNominal name="18">
+        <dInner>13.76</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="16">
+        <dInner>12.23</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="14">
+        <dInner>10.7</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="12">
+        <dInner>9.746</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>8.218</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>6.593</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>5.065</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>3.44</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>2.674</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+  </Material>
+  <Material name="Poly">
+    <Type name="PE3408">
+      <dNominal name="4">
+        <dInner>4.026</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>3.068</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.469</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>2.067</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.61</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.38</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>1.049</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.824</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.622</dInner>
+        <C>140</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+  </Material>
+  <Material name="PVC">
+    <Type name="CL160">
+      <dNominal name="18">
+        <dInner>16.532</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="16">
+        <dInner>14.696</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="14">
+        <dInner>12.86</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="12">
+        <dInner>11.71</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>9.874</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>7.921</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>6.084</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>4.134</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>3.21</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.635</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>2.173</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.734</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.512</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>1.175</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="CL200">
+      <dNominal name="18">
+        <dInner>15.246</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="16">
+        <dInner>14.384</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="14">
+        <dInner>12.588</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="12">
+        <dInner>11.464</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>9.666</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>7.755</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>5.955</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>4.046</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>3.146</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.581</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>2.129</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.7</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.482</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>1.169</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.91</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="CL315">
+      <dNominal name="6">
+        <dInner>5.583</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>3.794</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>2.948</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.423</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>1.983</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.598</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.394</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>1.101</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.874</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.696</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="Sch40">
+      <dNominal name="12">
+        <dInner>11.889</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>9.976</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>7.942</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>6.031</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>3.998</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>3.042</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.445</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>2.047</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.59</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.36</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>1.029</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.804</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.602</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="Sch80">
+      <dNominal name="12">
+        <dInner>11.294</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>    
+      <dNominal name="10">
+        <dInner>9.493</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>7.565</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>5.709</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>3.786</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>2.864</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.289</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>1.913</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.476</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.254</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>.935</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.722</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.526</dInner>
+        <C>150</C>
+        <Vmax>5</Vmax>
+      </dNominal>
+    </Type>
+  </Material>
+  <Material name="Steel">
+    <Type name="Cast Iron">
+      <dNominal name="24">
+        <dInner>24.34</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="20">
+        <dInner>20.36</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="18">
+        <dInner>18.34</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="16">
+        <dInner>16.32</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="14">
+        <dInner>14.28</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="12">
+        <dInner>12.24</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="10">
+        <dInner>10.22</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="8">
+        <dInner>8.23</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="6">
+        <dInner>6.14</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="4">
+        <dInner>4.1</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>3.32</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="Sch40">
+      <dNominal name="4">
+        <dInner>4.026</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>3.068</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.469</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>2.067</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.61</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.38</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>1.049</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.824</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.622</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+    </Type>
+    <Type name="Sch80">
+      <dNominal name="4">
+        <dInner>3.826</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="3">
+        <dInner>2.9</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="2 1/2">
+        <dInner>2.323</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="2">
+        <dInner>1.939</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/2">
+        <dInner>1.5</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1 1/4">
+        <dInner>1.278</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1">
+        <dInner>.954</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="3/4">
+        <dInner>.742</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+      <dNominal name="1/2">
+        <dInner>.546</dInner>
+        <C>100</C>
+        <Vmax>11</Vmax>
+      </dNominal>
+    </Type>
+  </Material>
+</root>
