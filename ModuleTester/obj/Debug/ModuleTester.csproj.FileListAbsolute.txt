@@ -26,3 +26,9 @@ C:\Users\Israel\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTeste
 C:\Users\Israel\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.csproj.ResolveComReference.cache
 C:\Users\Israel\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.dll
 C:\Users\Israel\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.pdb
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\ModuleTester.dll
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\ModuleTester.pdb
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.csprojResolveAssemblyReference.cache
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.csproj.ResolveComReference.cache
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.dll
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.pdb

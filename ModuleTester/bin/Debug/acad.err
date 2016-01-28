@@ -148,3 +148,9 @@ FATAL ERROR:  Unhandled Access Violation Reading 0x0040 Exception at e5510af0h
 
 02/20/2015 at 17:08:52.397  Drawing: C:\Shared\DWG\Parker Task Force\Parker Task Force - Irrigation - 2-20-2015.dwg
 -------------
+
+
+FATAL ERROR:  Unhandled Access Violation Reading 0x0000 Exception at 98802756h
+
+01/27/2016 at 17:47:13.794  Drawing: C:\Users\israelc\Desktop\BlockCenterTest.dwg
+-------------
