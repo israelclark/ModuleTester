@@ -68,15 +68,26 @@
       <HintPath>..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2016\acmgd.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="AcWindows">
+      <HintPath>..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2016\AcWindows.dll</HintPath>
+    </Reference>
+    <Reference Include="AdWindows">
+      <HintPath>..\..\..\..\..\..\Program Files\Autodesk\AutoCAD 2016\AdWindows.dll</HintPath>
+    </Reference>
     <Reference Include="HSKDICommon">
       <HintPath>..\..\..\..\..\..\ProgramData\Autodesk\ApplicationPlugins\HSKDICommon.bundle\Contents\HSKDICommon.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ModuleCommands.cs" />

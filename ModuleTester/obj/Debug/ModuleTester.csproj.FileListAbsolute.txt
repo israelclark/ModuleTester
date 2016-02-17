@@ -32,3 +32,7 @@ C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTest
 C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.csproj.ResolveComReference.cache
 C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.dll
 C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.pdb
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\AcWindows.dll
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\AdWindows.dll
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\en-US\AcWindows.resources.dll
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\en-US\AdWindows.resources.dll
