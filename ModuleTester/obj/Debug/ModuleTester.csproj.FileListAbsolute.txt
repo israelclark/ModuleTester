@@ -36,3 +36,4 @@ C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\AcWindows.
 C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\AdWindows.dll
 C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\en-US\AcWindows.resources.dll
 C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\israelc\Documents\GitHub\ModuleTester\ModuleTester\obj\Debug\ModuleTester.csproj.CoreCompileInputs.cache
